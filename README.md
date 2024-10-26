@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Hello World!<br>It's me, Julian!</h3>
+<h1 align="center" style="font-size: 36px; color:2E8B57;">Hello World!<br>It's me, Julian!</h1>
 
 ###
 
