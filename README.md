@@ -1,41 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
+<br clear="both">
 
-<br>
-<br> 
+<h3 align="center">Hello World!<br>It's me, Julian!</h3>
 
-<br>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=008B8B&center=true&vCenter=true&random=false&width=1000&lines=Hi!%2C+I'm+Julian+Maistrovicz;I'm+Software+Developer+in+Brazil;be+welcome!%3A)](https://git.io/typing-svg)
-<div align="center" >
-
-
-
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/maistrovicz-dev?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=black) 
-
-<br>
-<br>
+###
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maistrovicz-dev&theme=dark-minimalist&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Maistrovicz-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
+###
 
-<div align="center"> 
-<a href="https://instagram.com/julianmaistrovicz/" target="_blank">
-<img align="center" height="17" width="17" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
-</a>
-
-
-<a href="mailto:julianmaistrovicz@gmail.com">
-<img align="center"  height="15" width="15" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
-
-<a  href="https://www.linkedin.com/in/maistrovicz-dev/" target=_blank>
-<img align="center"  height="15" width="15" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Maistrovicz-dev/Maistrovicz-dev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">I'm Back-end developer fueled by curiosity and code. I bring Java chops to the table, plus past adventures in Lua scripting for GTA FiveM (yeah, those were some fun times) and Python scripts that get things done. My goal? Leveling up constantly, whether that’s by tackling backend frameworks or jumping into new tech.<br><br>When I’m not coding, I’m hunting down challenges that make me grow—and make my work stand out. Ready to create something exceptional? Let’s connect and make it happen.</p>
+
+###
+
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kzMWFwa3QxdWNxeTA0bjJ3a3l4a3lhdnExZGd6Ymd6ejA3MXV5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/maistrovicz-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="93" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/casablancas.j" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="93" height="35" alt="discord logo"  />
+  </a>
+  <a href="Julianmaistrovicz@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="93" height="35" alt="gmail logo"  />
+  </a>
+  <a href="instagram.com/julianmaistrovicz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="93" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
