@@ -1,11 +1,11 @@
 <br clear="both">
 
-<h1 align="center" style="font-size: 36px; color:2E8B57;">Hello World!<br>It's me, Julian!</h1>
+<h1 align="center">Hello World!<br>It's me, Julian!</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maistrovicz-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maistrovicz-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
 </div>
 
 ###
