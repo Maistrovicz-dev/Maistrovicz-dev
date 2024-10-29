@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/maistrovicz-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="93" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/casablancas.j" target="_blank">
+  <a href="https://discord.gg/casablancas.j" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="93" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:julianmaistrovicz@gmail.com" target="_blank">
