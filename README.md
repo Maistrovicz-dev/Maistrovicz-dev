@@ -4,14 +4,12 @@
 
 ###
 <br>
-<br> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maistrovicz-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
 </div>
 
 ###
-<br>
 <br> 
 
 <p align="left">Languages</p>
@@ -29,6 +27,7 @@
 </div>
 
 ###
+<p align="center">--------------------------------------------------</p>
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
