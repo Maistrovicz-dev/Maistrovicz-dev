@@ -3,6 +3,10 @@
   <img height="100" src="https://github.com/Maistrovicz-dev/Maistrovicz-dev/blob/main/roxo.png?raw=true"  />
 </div>
 
+<br>
+###
+<img src="https://raw.githubusercontent.com/maistrovicz-dev/maistrovicz-dev/output/snake.svg" alt="Snake animation" />
+
 ###
 <br>
 
@@ -82,4 +86,3 @@
 
 
 <p align="center"> *No HTML scripts were harmed in the making of this README.md😁.</p>
-
