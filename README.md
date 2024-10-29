@@ -1,11 +1,15 @@
 <div align="center">
-  <img height="75" src="https://i.im.ge/2024/10/29/kWxBdW.roxo.png"  />
+  <img height="100" src="https://github.com/Maistrovicz-dev/Maistrovicz-dev/blob/main/roxo.png?raw=true"  />
 </div>
 
 ###
+<br>
+<br> 
+<br>
+<br> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maistrovicz-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maistrovicz-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
 </div>
 
 ###
