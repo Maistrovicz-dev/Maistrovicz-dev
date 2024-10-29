@@ -77,4 +77,4 @@
 
 ###
 
-<p align="center"> *No HTML scripts were harmed in the making of this readme.md😁.</p>
+<p align="center"> *No HTML scripts were harmed in the making of this README.md😁.</p>
