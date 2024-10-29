@@ -4,7 +4,7 @@
 </div>
 
 <br>
-###
+<div align="center">
 <img src="https://raw.githubusercontent.com/maistrovicz-dev/maistrovicz-dev/output/snake.svg" alt="Snake animation" />
 
 ###
