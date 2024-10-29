@@ -54,7 +54,15 @@
 
 ###
 
-<p align="left">I'm Back-end developer fueled by curiosity and coffee. I bring Java skills with me, plus past adventures in Lua scripting for FiveM (yeah, those were some fun times) and Python scripts that get things done. My goal? Leveling up constantly, whether that’s by tackling backend frameworks or jumping into new tech.<br><br>When I’m not coding, I’m hunting down challenges that make me grow—and make my work stand out. I'm always up to develop some creative solution. Let’s make it happen.</p>
+<style>
+  .text-margins {
+    margin: 20px;
+  }
+</style>
+
+<p align="left" class="text-margins">
+  I'm a Back-end developer fueled by curiosity and coffee. I bring Java skills with me, plus past adventures in Lua scripting for FiveM (yeah, those were some fun times) and Python scripts that get things done. My goal? Leveling up constantly, whether that’s by tackling backend frameworks or jumping into new tech.<br><br>When I’m not coding, I’m hunting down challenges that make me grow—and make my work stand out. I'm always up to develop some creative solution. Let’s make it happen.
+</p>
 
 ###
 <br>
