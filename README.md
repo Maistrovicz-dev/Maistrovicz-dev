@@ -76,3 +76,5 @@
 </div>
 
 ###
+
+<p align="center"> *No HTML scripts were harmed in the making of this readme.md😁.</p>
