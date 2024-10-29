@@ -1,7 +1,6 @@
-<br clear="both">
-
-<h1 align="center" style="color: #5F9EA0;">Hello World!<br>It's me, Julian!</h1>
-
+<div align="center">
+  <img height="75" src="https://i.im.ge/2024/10/29/kWxBdW.roxo.png"  />
+</div>
 
 ###
 
@@ -11,7 +10,11 @@
 
 ###
 
-<div align="center">
+<p align="left">Languages</p>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -20,6 +23,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<p align="right">Tools</p>
 
 ###
 
@@ -40,10 +63,10 @@
   <a href="https://discord.com/casablancas.j" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="93" height="35" alt="discord logo"  />
   </a>
-  <a href="Julianmaistrovicz@gmail.com" target="_blank">
+  <a href="mailto:julianmaistrovicz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="93" height="35" alt="gmail logo"  />
   </a>
-  <a href="instagram.com/julianmaistrovicz" target="_blank">
+  <a href="https://www.instagram.com/julianmaistrovicz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="93" height="35" alt="instagram logo"  />
   </a>
 </div>
