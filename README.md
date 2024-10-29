@@ -5,8 +5,6 @@
 ###
 <br>
 <br> 
-<br>
-<br> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maistrovicz-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
@@ -15,8 +13,7 @@
 ###
 <br>
 <br> 
-<br>
-<br> 
+
 <p align="left">Languages</p>
 
 ###
@@ -48,7 +45,8 @@
 </div>
 
 ###
-
+<br>
+<br> 
 <p align="right">Tools</p>
 
 ###
@@ -56,7 +54,8 @@
 <p align="left">I'm Back-end developer fueled by curiosity and coffee. I bring Java skills with me, plus past adventures in Lua scripting for FiveM (yeah, those were some fun times) and Python scripts that get things done. My goal? Leveling up constantly, whether that’s by tackling backend frameworks or jumping into new tech.<br><br>When I’m not coding, I’m hunting down challenges that make me grow—and make my work stand out. I'm always up to develop some creative solution. Let’s make it happen.</p>
 
 ###
-
+<br>
+<br> 
 <div align="center">
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kzMWFwa3QxdWNxeTA0bjJ3a3l4a3lhdnExZGd6Ymd6ejA3MXV5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp"  />
 </div>
