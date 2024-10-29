@@ -12,7 +12,7 @@
 ###
 <br> 
 
-<p align="left">Languages</p>
+<p align="left">LANGUAGES</p>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<p align="right">Tools</p>
+<p align="right">TOOLS</p>
 
 ###
 
