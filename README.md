@@ -27,7 +27,7 @@
 </div>
 
 ###
-<p align="center">--------------------------------------------------</p>
+<p align="center">-------------------------------------------------</p>
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -76,5 +76,8 @@
 </div>
 
 ###
+<br>
+<br>
+
 
 <p align="center"> *No HTML scripts were harmed in the making of this README.md😁.</p>
