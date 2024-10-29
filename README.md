@@ -31,6 +31,7 @@
  </div>
 
 ###
+<hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
 <p align="center">and</p>
 <hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
 
