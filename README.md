@@ -17,11 +17,11 @@
 ###
 <br> 
 
-<p align="left">LANGUAGES</p>
+<p align="center">LANGUAGES</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -35,7 +35,7 @@
 <p align="center">and</p>
 <hr style="border: 1px solid #000; width: 80%; margin: 20px auto;">
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -52,7 +52,7 @@
 
 ###
 
-<p align="right">TOOLS</p>
+<p align="center">TOOLS</p>
 
 ###
 <br>
