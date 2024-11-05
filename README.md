@@ -84,8 +84,3 @@
 
 
 <p align="center"> *No HTML scripts were harmed in the making of this README.md😁.</p>
-
-.leWaterWave span { animation: leWaterWave .2s linear infinite }
-@keyframes leWaterWave {
-    50% { transform: skewY(1deg) skewX(-1deg) scale(1.06) }
-}
