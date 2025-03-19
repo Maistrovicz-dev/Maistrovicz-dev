@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img height="100" src="https://github.com/Maistrovicz-dev/Maistrovicz-dev/blob/main/assets/roxo.png?raw=true"  />
+  <img height="100" src="https://github.com/Maistrovicz-dev/Maistrovicz-dev/blob/main/assets/header.png?raw=true"  />
 </div>
 
 ###
